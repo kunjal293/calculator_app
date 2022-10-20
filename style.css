@@ -2,6 +2,14 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background-color:rgb(142, 192, 142);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
 #container{
     width: 250px;
     border: 1px solid black;
@@ -9,6 +17,7 @@
 }
 
 #container h4{
+   color: black ;
     text-align: center;
 }
 
@@ -18,7 +27,8 @@
 }
 
 table{
-    border: 5px solid #ccc;
+    text-decoration: blueviolet;
+    border: 5px solid blueviolet;
     margin: 20px auto;
 }
 
